@@ -1,26 +1,26 @@
-<img width="2000" height="600" alt="Blue and White Simple Digital Marketing LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/18329344-81fd-4831-b45b-4dce2ee01d99" />
+<img width="2000" height="600" alt="Blue and White Simple Digital Marketing LinkedIn Article Cover Image" src="https://i.postimg.cc/Dyvd8tNF/Purple-and-Pink-Minimalist-Front-End-Developer-Linked-In-Banner.png" />
 
 
 
 <div align="center" style="background-color:#121212; color:white; padding:40px; border-radius:15px;">
 
-<h1>Hi 👋, I'm Arzoo Ahmed</h1>
+<h1>Hi 👋, I'm Abu Saleh</h1>
 <h3>MERN Stack Developer | JavaScript, React, Node.js, MongoDB | Building Scalable Web Applications.</h3>
 
 <p>
 🌱 I’m currently learning <b>TypeScript</b><br>
-👨‍💻 All of my projects are available at <a href="https://github.com/arzoo594?tab=repositories" style="color:#1E90FF;">GitHub</a><br>
-📫 How to reach me: <b>arzooahmed0170609@gmail.com</b>
+👨‍💻 All of my projects are available at <a href="https://github.com/itzakio?tab=repositories" style="color:#1E90FF;">GitHub</a><br>
+📫 How to reach me: <b>abusaleh2612@gmail.com</b>
 </p>
 
 <hr style="border:1px solid #333; width:80%; margin:20px auto;">
 
 <h2>Connect with me:</h2>
 <p>
-<a href="https://dev.to/arzoo_ahmed_ec8f28b1e51f7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40" style="margin: 0 10px;"></a>
-<a href="https://www.linkedin.com/in/arzoo-ahmed786/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" style="margin: 0 10px;"></a>
-<a href="https://www.facebook.com/arzoo.ahmed.7165/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" style="margin: 0 10px;"></a>
-<a href="https://discord.gg/arzooahmed385" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" style="margin: 0 10px;"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40" style="margin: 0 10px;"></a>
+<a href="https://www.linkedin.com/in/abu-saleh1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" style="margin: 0 10px;"></a>
+<a href="https://www.facebook.com/itz.akio.98/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40" style="margin: 0 10px;"></a>
+<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" style="margin: 0 10px;"></a>
 </p>
 
 <hr style="border:1px solid #333; width:80%; margin:20px auto;">
@@ -51,5 +51,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arzoo594&theme=dark" alt="GitHub Streak" style="margin: 20px auto; display:block;"></p>
 <p><img src="https://komarev.com/ghpvc/?username=arzoo594&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="margin: 20px auto; display:block;"></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoo594&theme=dark" alt="Trophies" style="margin: 20px auto; display:block;"></a></p>
-
 </div>
