@@ -50,13 +50,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzakio&theme=tokyonight"/>
 </p>
-
+<p>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzakio&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itzakio&label=Profile%20Views&color=38bdf8"/>
 </p>
+
 
 ---
 
