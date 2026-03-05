@@ -23,10 +23,10 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abu-saleh1/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://i.ibb.co.com/JRcVQWz7/linkedin.png" width="40"/>
   </a>
   <a href="https://www.facebook.com/itz.akio.98/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
+    <img src="https://i.ibb.co.com/DHKyLgT5/facebook.png" width="40"/>
   </a>
 </p>
 
