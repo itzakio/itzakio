@@ -13,10 +13,13 @@
 ---
 
 ### 🔹 Current State
-- 🌱 Currently learning **TypeScript**
-- 👨‍💻 Actively building **MERN projects**
-- 💼 Open to **Frontend / Full-Stack opportunities**
-- 📫 Reach me at **abusaleh2612@gmail.com**
+
+| | |
+|---|---|
+| 🔥 **Learning** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| 👨‍💻 **Building** | ![MERN](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| 💼 **Open to** | ![Frontend](https://img.shields.io/badge/Frontend-FF6B6B?style=for-the-badge)&nbsp;![Full-Stack](https://img.shields.io/badge/Full--Stack-4ECDC4?style=for-the-badge) |
+| 📫 **Reach me** | [![Email](https://img.shields.io/badge/Email-abusaleh2612%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abusaleh2612@gmail.com) |
 
 ---
 
