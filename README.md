@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=7" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,redux,figma&theme=dark&perline=7" alt="Tools" />
   </a>
 </p>
 
