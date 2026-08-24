@@ -132,11 +132,11 @@
 <!--                     ACTIVITY GRAPH                                -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/itzakio">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzakio&bg_color=141321&color=A855F7&line=EC4899&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=16&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
