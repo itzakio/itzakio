@@ -110,21 +110,21 @@
   <a href="https://github.com/itzakio">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itzakio&theme=radical" width="49%" alt="Repos per Language" />
   </a>
-  &nbsp;
-  <a href="https://github.com/itzakio">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzakio&theme=radical" width="49%" alt="Most Commit Language" />
+  &nbsp;  <a href="https://github.com/itzakio">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzakio&theme=radical" width="49%" alt="Stats" />
   </a>
+  
 </p>
 
-<p align="center">
-  <a href="https://github.com/itzakio">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itzakio&theme=radical" width="49%" alt="Stats" />
+<!-- <p align="center">
+<a href="https://github.com/itzakio">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itzakio&theme=radical" width="49%" alt="Most Commit Language" />
   </a>
   &nbsp;
   <a href="https://github.com/itzakio">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itzakio&theme=radical&utcOffset=6" width="49%" alt="Productive Time" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
